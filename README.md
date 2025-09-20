@@ -1,8 +1,19 @@
 - 👋 Hi, I’m @samadvai315
-- 👀 I’m expert in Digital marketing, Trading And Sociel media.
-- 🌱 My Religion is Islam, Blood (O+).
 
-<!---
-samadvai315/samadvai315 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 My Religion is Islam, Blood (O+).
+  
+- 👀 I’m a Bangladeshi Web Developer, Python Programmer, Cybersecurity Expert, Digital Marketing Expert, Trader, and Content Creator
+
+Career Highlights:
+
+Provides technical solutions and cybersecurity support for social media and online services.
+Experienced in solving social media issues, managing pages and groups, and ensuring online safety.
+Works with businesses and individuals to strengthen their digital presence and security.
+
+Skills:
+
+Web Development (building and optimizing websites).
+Python Programming (tools, scripts, and automation).
+Cybersecurity (expert advice and solutions for online platforms and social media).
+Digital Marketing (campaign management, audience targeting, analytics).
+Content Creation (crafts and short videos on multiple platforms).
